@@ -1,0 +1,13 @@
+.container {
+    width: 500px;
+    height: 500px;
+    border: 1px solid #B4B4B4;
+    padding-left: 103px;
+    padding-top: 80px;
+}
+.h4-color {
+    color: black;
+}
+.p1-color {
+    color: #808080;
+}
